@@ -1,0 +1,22 @@
+/*
+ * Base structure
+ */
+
+html,
+body {
+  height: 100%;
+  background-color: #EBEBEB;
+}
+
+body {
+  color: #8D8C8C;
+  text-align: center;
+}
+
+/* Menu */
+.blackist{
+	width: 100%;
+	height: 60px;
+	background: black;
+	position: absolute;
+}
