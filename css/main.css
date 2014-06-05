@@ -197,6 +197,9 @@ ul{
 	-webkit-transform: scale(1.2);
 	-webkit-transition: -webkit-transform 0.5s;
 
+	-moz-transform: scale(1.2);
+	-moz-transition: tranform 0.5s;
+
 	transform: scale(1.2);
 	transition: tranform 0.5s;
 }
