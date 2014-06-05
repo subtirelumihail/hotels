@@ -253,6 +253,11 @@ ul{
 		padding-top: 10px;
 	}
 
+	.footer .social > a > img {
+		margin-right: 10px;
+		margin-left: 10px;
+	}
+
 	.homepage .start-text > .inner{
 		text-align: left;
 	}
